@@ -1,0 +1,15 @@
+C:\Users\efebi\source\repos\WordGame\WordGame\bin\Debug\net6.0\WordGame.exe
+C:\Users\efebi\source\repos\WordGame\WordGame\bin\Debug\net6.0\WordGame.deps.json
+C:\Users\efebi\source\repos\WordGame\WordGame\bin\Debug\net6.0\WordGame.runtimeconfig.json
+C:\Users\efebi\source\repos\WordGame\WordGame\bin\Debug\net6.0\WordGame.dll
+C:\Users\efebi\source\repos\WordGame\WordGame\bin\Debug\net6.0\WordGame.pdb
+C:\Users\efebi\source\repos\WordGame\WordGame\obj\Debug\net6.0\WordGame.csproj.AssemblyReference.cache
+C:\Users\efebi\source\repos\WordGame\WordGame\obj\Debug\net6.0\WordGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efebi\source\repos\WordGame\WordGame\obj\Debug\net6.0\WordGame.AssemblyInfoInputs.cache
+C:\Users\efebi\source\repos\WordGame\WordGame\obj\Debug\net6.0\WordGame.AssemblyInfo.cs
+C:\Users\efebi\source\repos\WordGame\WordGame\obj\Debug\net6.0\WordGame.csproj.CoreCompileInputs.cache
+C:\Users\efebi\source\repos\WordGame\WordGame\obj\Debug\net6.0\WordGame.dll
+C:\Users\efebi\source\repos\WordGame\WordGame\obj\Debug\net6.0\refint\WordGame.dll
+C:\Users\efebi\source\repos\WordGame\WordGame\obj\Debug\net6.0\WordGame.pdb
+C:\Users\efebi\source\repos\WordGame\WordGame\obj\Debug\net6.0\WordGame.genruntimeconfig.cache
+C:\Users\efebi\source\repos\WordGame\WordGame\obj\Debug\net6.0\ref\WordGame.dll
